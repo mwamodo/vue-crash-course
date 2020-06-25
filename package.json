@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "0.19.2",
     "core-js": "2.6.11",
-    "uuid": "3.3.3",
+    "uuid": "8.2.0",
     "vue": "2.6.10",
     "vue-router": "3.1.3"
   },
